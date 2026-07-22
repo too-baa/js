@@ -69,4 +69,3 @@ let str2 = "world"
 let num1 = num2 = num3 = 9 //valid
 num1+=1 //or num++
 console.log(num1);
-
